@@ -5,7 +5,7 @@
     "keywords": ["highcharts","charts"],
     "homepage": "https://github.com/hostcia/highcharts",
     "license": "MIT",
-    "version": "1.0",
+    "version": "2.0",
     "authors": [
         {
             "name": "Tiago",
@@ -19,7 +19,7 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "hostcia\\highcharts": "src/highcharts"
         }
     }
